@@ -1,0 +1,10 @@
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\bin\Debug\SistemaDeParticulas.exe.config
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\bin\Debug\SistemaDeParticulas.exe
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\bin\Debug\SistemaDeParticulas.pdb
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.Form1.resources
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.Properties.Resources.resources
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.csproj.GenerateResource.cache
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.exe
+C:\Users\erick\source\repos\SistemaDeParticulas\SistemaDeParticulas\obj\Debug\SistemaDeParticulas.pdb
